@@ -1,5 +1,5 @@
 # FEARec
-Code for WWW 2022 paper, Frequency Enhanced Hybrid Attention Network for Sequential Recommendation
+Code for WWW 2023 paper, Frequency Enhanced Hybrid Attention Network for Sequential Recommendation
 
 # Usage
 
